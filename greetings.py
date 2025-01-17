@@ -15,10 +15,3 @@ print("Статус заметки:", status)
 print("Дата создания заметки:", created_date)
 print("Дата истечения заметки:", issue_date)
 
-
-
-# git commit -m "Initial commit"
-# [master (root-commit) e1020f3] Initial commit
-# 1 file changed, 1 insertion(+)
-# create mode 100644 README.md
-
